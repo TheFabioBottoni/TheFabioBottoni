@@ -1,16 +1,15 @@
-### Hi there 👋
+👨 Me chamo Fabio Bottoni
 
-<!--
-**TheFabioBottoni/TheFabioBottoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+👨‍💻 Amo tecnologia e games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sempre em busca de aprendizado
+
+
+
+<div align="center">
+  <a href="https://github.com/TheFabioBottoni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFabioBottoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFabioBottoni&layout=compact&langs_count=7&theme=dark"/>
+</div>
