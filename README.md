@@ -1,15 +1,21 @@
-👨 Me chamo Fabio Bottoni
+<h1 align="center">Olá! Me chamo Fabio Bottoni</h1>
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thefabiobottoni&label=Profile%20views&color=0e75b6&style=flat" alt="thefabiobottoni" /> </p>
 
-👨‍💻 Amo tecnologia e games
+- 🌱 No momento estou focado em **Algoritmos e Lógica de Programação**
 
-📚 Sempre em busca de aprendizado
+- 📫 Contato: **fabiobottonibr@gmail.com**
 
+- 📄 Sobre mim: [https://www.linkedin.com/in/fabiobottoni/](https://www.linkedin.com/in/fabiobottoni/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fabiobottoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabiobottoni" height="30" width="40" /></a>
+<a href="https://fb.com/fabio.bottoni.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fabio.bottoni.3" height="30" width="40" /></a>
+<a href="https://instagram.com/igdobottoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igdobottoni" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/TheFabioBottoni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFabioBottoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFabioBottoni&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefabiobottoni&show_icons=true&theme=dark&locale=en" alt="thefabiobottoni" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefabiobottoni&theme=dark" alt="thefabiobottoni" /></p>
