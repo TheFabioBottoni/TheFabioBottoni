@@ -1,6 +1,3 @@
-![banner](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1298/https://cdn.colegioplanck.com.br/wp-content/uploads/2021/06/Colegio-Planck-Profissao-programador-o-que-faz-esse-profissional-tao-disputado-no-mercado-arte-Autores-Grupo-S2-Marketing-Freepik.jpg)
-
-
 <h1 align="center">Olá! Me chamo Fabio Bottoni</h1>
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
 
