@@ -1,8 +1,6 @@
-<h1 align="center">Ola! Me chamo Fabio Bottoni</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
-
+- 🙋‍♂️ Ola! Me chamo Fabio Bottoni
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
 - 📚 No momento estou lendo : **Algoritmos e Lógica de Programação**
-
 - 📫 Contato: **fabiobottonibr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
