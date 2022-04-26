@@ -1,13 +1,12 @@
-<h1 align="center">Olá! Me chamo Fabio Bottoni</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
+
+<h1 align="center">Ola! Me chamo Fabio Bottoni</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefabiobottoni&label=Profile%20views&color=0e75b6&style=flat" alt="thefabiobottoni" /> </p>
 
-- 🌱 No momento estou focado em **Algoritmos e Lógica de Programação**
+- 🌱No momento estou lendo : **Algoritmos e Lógica de Programação**
 
 - 📫 Contato: **fabiobottonibr@gmail.com**
-
-- 📄 Sobre mim: [https://www.linkedin.com/in/fabiobottoni/](https://www.linkedin.com/in/fabiobottoni/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
