@@ -1,7 +1,6 @@
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fabio Bottoni</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiobottoni&color=yellow" alt="Profile views" /> </p>
+<h1>Olá me chammo Fabio Bottoni!</h1>
 
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
