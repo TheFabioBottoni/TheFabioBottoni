@@ -1,31 +1,46 @@
 
 
-<h1>Olá me chammo Fabio Bottoni!</h1>
-
-
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
-- 📚 No momento estou lendo : **Algoritmos e Lógica de Programação**
-- 📫 Contato: **fabiobottonibr@gmail.com**
-<br><br>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFabioBottoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFabioBottoni&layout=compact&langs_count=7&theme=merko"/>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TheFabioBottoni.TheFabioBottoni&"  />
 </div>
 
+###
 
-## 📄 &nbsp;Learning
-<div style="display: inline_block"><br>
- <img align="center" alt="fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div>
+<h1 align="center">Olá! Me chamo Fabio Bottoni!</h1>
 
+###
 
-## 🌐 &nbsp;Social Links
+<p align="center">- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>- 📚 No momento estou lendo : Algoritmos e Lógica de Programação<br>- 📫 Contato: fabiobottonibr@gmail.com</p>
 
-<a href="https://www.linkedin.com/in/fabiobottoni/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-fabiobottoni-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-<a href="https://instagram.com/igdobottoni" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-igdobottoni-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&username=TheFabioBottoni" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&username=TheFabioBottoni" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fabiobottoni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/fabio.bottoni.3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/igdobottoni" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
